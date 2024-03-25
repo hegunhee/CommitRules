@@ -23,4 +23,4 @@
 
 기본적인 틀
 
-[Brunch Name] header : message  
+[지라 티켓이름/Brunch Name] header : message  
