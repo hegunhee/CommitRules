@@ -23,4 +23,4 @@
 
 기본적인 틀
 
-[지라 티켓이름/Brunch Name] header : message  
+지라 티켓이름 or #이슈번호 - header : message  
